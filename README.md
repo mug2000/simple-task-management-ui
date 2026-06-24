@@ -12,6 +12,9 @@ Bootstrapped with Vite + React + TypeScript.
 
 - Code linting: `biomejs`
 
+<img width="1511" height="864" alt="image" src="https://github.com/user-attachments/assets/4c39edce-5b73-482b-8afa-bbd893aa3775" />
+
+
 ## Dev setup:
 
 Using `pnpm`:
